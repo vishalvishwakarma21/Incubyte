@@ -35,3 +35,5 @@ describe('stringCalculatorServices'),() =>{
   expect(testDriven.add('1,2,3,4,5,6,7,8')).toBe(36);
   });
 }
+
+// To run the test cases -->Go to the CLI and wirte the command 'ng test' it will compile the test cases and you can show the output in the CLI itself.
